@@ -10,6 +10,7 @@
 
 ## FAQ
 
+* [Untitled](faq/untitled-1.md)
 * [Upgrading LikeCoin to LikeCoin chain](faq/upgrading-likecoin-to-likecoin-chain.md)
 * [Untitled](faq/untitled.md)
 
