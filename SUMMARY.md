@@ -1,7 +1,7 @@
 # Table of contents
 
-* [What is LikeCoin](README.md)
-* [Constitution](constitution.md)
+* [LikeCoin 是甚麼](README.md)
+* [憲法](constitution.md)
 
 ## Getting Started
 
@@ -10,7 +10,6 @@
 
 ## FAQ
 
-* [Untitled](faq/untitled-1.md)
 * [Upgrading LikeCoin to LikeCoin chain](faq/upgrading-likecoin-to-likecoin-chain.md)
 * [Untitled](faq/untitled.md)
 
