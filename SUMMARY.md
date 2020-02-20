@@ -5,5 +5,3 @@
 
 ## FAQ
 
-* [Upgrading LikeCoin to LikeCoin chain](faq/upgrading-likecoin-to-likecoin-chain.md)
-
